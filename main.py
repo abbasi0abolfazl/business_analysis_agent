@@ -8,7 +8,7 @@ if __name__ == "__main__":
         "today_customers": 50,
         "yesterday_sales": 900,
         "yesterday_cost": 700,
-        "yesterday_customers": 50
+        "yesterday_customers": 500
     }
 
     result = run_agent(input_data)
