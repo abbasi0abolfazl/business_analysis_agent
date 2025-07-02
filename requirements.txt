@@ -1,0 +1,6 @@
+langgraph==0.5.0
+langgraph-cli==0.3.3
+langgraph-checkpoint==2.1.0
+langgraph-api==0.2.77
+typing-extensions==4.14.0
+pytest==8.3.2
